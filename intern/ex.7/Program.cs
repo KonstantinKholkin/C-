@@ -1,15 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 /* 
  * Задание:
- * Написать программу вычисления значения функции y = f(a).
+ * Показать числа от -N до N.
  * 
  * Выполнил: Холкин Константин Юрьевич
  */
-using ex._5;
+using ex._7;
 
 MyClass m = new MyClass();
 m.Input();
-m.F();
 m.Print();
-
-

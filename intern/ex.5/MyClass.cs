@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/* 
+ * Задание:
+ * Написать программу вычисления значения функции y = f(a).
+ * 
+ * Выполнил: Холкин Константин Юрьевич
+ */
 namespace ex._5
 {
     internal class MyClass
@@ -15,7 +20,7 @@ namespace ex._5
         public void Input()//Метод для запроса числа
         {
             Console.Write("Введите число:");
-            x = int.Parse(Console.ReadLine());
+            x = double.Parse(Console.ReadLine());
         }
             public void F()//Решение функции
         {

@@ -1,15 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 /* 
  * Задание:
- * Написать программу вычисления значения функции y = f(a).
+ * Выяснить является ли число чётным.
  * 
  * Выполнил: Холкин Константин Юрьевич
  */
-using ex._5;
+using ex._6;
 
 MyClass m = new MyClass();
 m.Input();
-m.F();
 m.Print();
-
-
